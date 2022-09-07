@@ -15,7 +15,7 @@ https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 ## Recordings of Previous lecture Sessions
 
 # Office
-[![Fardad Office](Images/small345Office.png)]https://teams.microsoft.com/l/channel/19%3agxCjDUPWLPpvW6x5coEwRz5vsskLVvG4Xt6pQl2reE41%40thread.tacv2/General?groupId=4aa505fa-11fb-431c-9809-4a73cad21f5c&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
+[![Fardad Office](Images/small345Office.png)](https://teams.microsoft.com/l/channel/19%3agxCjDUPWLPpvW6x5coEwRz5vsskLVvG4Xt6pQl2reE41%40thread.tacv2/General?groupId=4aa505fa-11fb-431c-9809-4a73cad21f5c&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
