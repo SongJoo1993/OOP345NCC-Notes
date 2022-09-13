@@ -17,7 +17,7 @@ For Mac, either you have to do all the git commands through command line, or you
 - [Install Windows 10 on Fusion VM](https://www.groovypost.com/howto/create-custom-virtual-machine-vmware-fusion/)
 
 ## Recordings of Previous lecture Sessions
-- [Sep07 - Introduction](https://youtu.be/u-GcA3bfFzc)
+- [Sep07 - Introduction](https://youtu.be/_MHcHYBCB28)
 
 # Office
 [![Fardad Office](Images/small345Office.png)](https://teams.microsoft.com/l/channel/19%3agxCjDUPWLPpvW6x5coEwRz5vsskLVvG4Xt6pQl2reE41%40thread.tacv2/General?groupId=4aa505fa-11fb-431c-9809-4a73cad21f5c&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
